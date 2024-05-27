@@ -126,6 +126,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objectPrefab: {fileID: 4510717498217917004, guid: 6c8148ff40fb0744fbae4dba93033cb8, type: 3}
-  triggerBoxPrefab: {fileID: 7392168304403594520, guid: 823464ba0aba3364bbd9124be33ee828, type: 3}
   minSpawnInterval: 1
   maxSpawnInterval: 2

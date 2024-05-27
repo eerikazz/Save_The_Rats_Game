@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c0262563a24f90d459f95af21b033659
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - roadGameObject: {fileID: 3688473098105025992, guid: 8200acdbf7b4de74d9dcee45a03d819a, type: 3}
+  - ratGameObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
